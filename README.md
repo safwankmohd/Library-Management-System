@@ -9,6 +9,7 @@ This project is based on a Library Management System designed to keep track of a
 5.IssueStatus
 6.ReturnStatus
 
+
 Queries:
 1.etrieve the book title, category, and rental price of all available books.
 2.List the employee names and their respective salaries in descending order of salary.
