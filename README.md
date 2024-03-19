@@ -2,8 +2,8 @@
 
 This project is based on a Library Management System designed to keep track of all information about books in the library, including their cost, status, and the total number of books available. It includes the creation of a database named library with the following tables:
 
-1.Branch
-2.Employee
+#1.Branch
+#2.Employee
 3.Books
 4.Customer
 5.IssueStatus
