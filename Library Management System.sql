@@ -1,10 +1,3 @@
-drop table IssueStatus;
-drop table Branch;
-drop table Employee;
-drop table Customer;
-drop table Books;
-drop table ReturnStatus;
-
 create database Library;
 use library;
 
